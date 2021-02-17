@@ -1,21 +1,4 @@
 # todos-list
 
-> Premier TP pour apprendre vuejs
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Ceci est mon premier projet afin d'appendre vueJS. Le but était de faire une "todo list" en reprenant le style de TodoMVC.
+![Screenshot_2021-02-17 todos-list](https://user-images.githubusercontent.com/76838951/108247739-58bdf380-7153-11eb-8a47-00322cc08e5a.png)
